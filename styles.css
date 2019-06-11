@@ -1,0 +1,54 @@
+.container {
+    margin: 20px;
+    width: 400px;
+    height: 300px;
+    background-color: aliceblue;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.dot {
+    position: absolute;
+    background-color: rgb(95, 10, 62);
+    width: 7px;
+    height: 7px;
+    border-radius: 4px;
+}
+
+.square {
+    margin-top: 50px;
+    position: relative;
+    width: 300px;
+    height: 300px;
+    background-color: rgb(253, 224, 224);
+}
+
+.square1 {
+    margin-top: 50px;
+    position: relative;
+    width: 300px;
+    height: 300px;
+    background-color: rgb(253, 224, 224);
+}
+
+
+/* .p {
+    margin: 10px;
+    background-color: burlywood;
+    color: rgb(69, 37, 253);
+}
+
+.div {
+    margin: 10px;
+    background-color: darkkhaki;
+}
+
+.h1 {
+    margin: 10px;
+    background-color: khaki;
+    color: green;
+} */
